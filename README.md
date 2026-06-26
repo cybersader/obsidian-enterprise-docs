@@ -19,3 +19,25 @@
 - Hotkey Helper
 - Slides NG
 - Waypoint
+
+- Commander
+- Custom Attachement Location
+- Copy as HTML
+- Heading Shifter
+- Lazy Plugin Loader?
+- Paste URL into Selection
+- File path to URI
+- Image Context Menus
+- File Diff
+- Recursive Copy
+- Version History Diff
+- QuickAdd
+- Tasks
+- Templater
+- Timestamper
+- Various Complements
+- Markwhen
+- Hider
+- Callout Manager
+- BRAT
+- 
