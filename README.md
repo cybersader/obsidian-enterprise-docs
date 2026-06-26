@@ -40,4 +40,4 @@
 - Hider
 - Callout Manager
 - BRAT
-- 
+- Advanced Copy
